@@ -1,4 +1,4 @@
-## test flask with a toy db
+## test flask with a toy database
 import flask
 from flask import request, jsonify
 import sqlite3
