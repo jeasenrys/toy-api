@@ -1,0 +1,6 @@
+services:
+  api_final:
+    image: jeasenrys/api_final:v1
+    ports:
+      - 5000:5000
+    working_dir: /toy_api
